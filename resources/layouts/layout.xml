@@ -1,0 +1,6 @@
+<layout id="MainLayout">
+    <bitmap id="nuggetbitmap" x="center" y="10" filename="../drawables/nugget.png" />
+    <label id="nuggetsTOP" justification="Graphics.TEXT_JUSTIFY_CENTER" text="You've burned" x="center" y="90" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" />
+    <label id="nuggetsCount" justification="Graphics.TEXT_JUSTIFY_CENTER" text="XXX" x="center" y="120" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" />
+    <label id="nuggetsBOTTOm" justification="Graphics.TEXT_JUSTIFY_CENTER" text="Nuggets today!" x="center" y="150" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" />
+</layout>
